@@ -1,0 +1,90 @@
+.sp-menu {
+	color: #FF1D00;
+}
+
+.awaken-theme-info {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: #fff;
+    max-width: 1000px;
+}
+
+h1.awaken-info-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    color: #353535;
+}
+
+.awaken-info-header {
+    margin-bottom: 50px;
+}
+
+.awaken-theme-description {
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.awaken-info-blocks {
+    clear: both;
+    overflow: hidden;
+}
+
+.awaken-info-block {
+    width: 30%;
+    height: 100px;
+    float: left;
+    text-align: center;
+    margin: 0 0 5% 5%;
+    background-color: #eee;
+}
+
+@media only screen and (max-width: 768px) {
+    .awaken-info-block {
+        padding-top: 5px;
+        width: 100%;
+        margin: 0 0 50px;
+        float: none;
+    }
+}
+
+.aw-n-margin {
+    margin-left: 0;
+}
+
+.awaken-info-block .dashicons {
+    display: block !important;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.awaken-info-block a {
+    color: #00a0d2;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.awaken-info-block a:hover {
+    color: #333;
+}
+
+.awaken-info-block .dashicons-book-alt {
+    font-size: 24px;
+}
+
+.awaken-info-block .dashicons-awards {
+    font-size: 32px;
+}
+
+.awaken-notice {
+    color: #fa7042;
+    font-size: 16px;
+}
