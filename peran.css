@@ -1,0 +1,47 @@
+
+
+
+.navbar {background-color: #90EE90; height: 80px;
+
+}
+
+.navbar .navbar-brand {font-size: 30px;
+					font-family: serif; }
+
+
+
+.jumbotron {background-image: url(background.jpg);
+			background-size: cover;
+			height: 500px;
+		}
+		.jumbotron .display-3 {
+			color: white;
+			text-align: center;
+		}
+
+		.jumbotron .display-7 {
+			color: white; text-align: center;
+		}
+
+		.jumbotron .lead { color: #FFF8DC; text-align: center;
+		 }
+
+		 .jumbotron hr {border-color: #ffbf00;
+		 	width: 300px;
+		 	border-width: 3px;}
+
+
+.carousel-item {height: 500px; width: 500px;
+margin-left: 450px; margin-top: 10px;}
+
+.carousel-inner {background-color: #90EE90 ;
+			background-size: cover;}
+
+
+			h1 {font-size: 30px; background-color: #ccffdd;}
+			h2 {font-size: 15px; margin-left: 60px; margin-right: 60px; background-color: #e6e6e6;
+			}
+	
+	footer {
+		font-family: serif; font-size: 15px; background-color: #004080; color: white;
+	}
