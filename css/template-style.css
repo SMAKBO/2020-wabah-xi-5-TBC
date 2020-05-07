@@ -1,4 +1,12 @@
 /* Default Template Styles */
+.navbar {
+	background-color: #90EE90; height: 80px;
+}
+
+.navbar .navbar-brand {
+	font-size: 30px;
+	font-family: serif; }
+
 
 /* Typography */
 body {
