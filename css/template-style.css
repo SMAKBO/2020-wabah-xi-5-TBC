@@ -1,13 +1,4 @@
 /* Default Template Styles */
-.navbar {
-	background-color: #90EE90; height: 80px;
-}
-
-.navbar .navbar-brand {
-	font-size: 30px;
-	font-family: serif; }
-
-
 /* Typography */
 body {
   background: #fff;
@@ -492,7 +483,7 @@ aside.aside-left {
 
 /* Background Colors */
 .background-white, .primary-color-white .background-primary {
-  background-color: #fff !important;
+  background-color: #90EE90 !important;
 }
 .background-primary, .primary-color-primary .background-primary {
   background-color: #49BF4C !important;
